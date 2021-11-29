@@ -5,7 +5,7 @@ entries:
     appVersion: v0.4.7
     created: "2021-01-09T20:17:54.899057321+11:00"
     description: A Wireguard VPN Access Server
-    digest: 567A0EDD0A9D969C54B2D366A538551D0CE67DFDD4804518644C4A65045C6078
+    digest: 5926ED126F0D99DD1ED7893C632053DF7BBB012E45DC189E3686451B30AE07DF
     name: wg-access-server
     urls:
     - https://alexandre-abrioux.github.io/wg-access-server/charts/wg-access-server-v0.4.6.tgz
