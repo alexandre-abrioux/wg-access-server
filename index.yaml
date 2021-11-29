@@ -8,7 +8,7 @@ entries:
     digest: 5926ED126F0D99DD1ED7893C632053DF7BBB012E45DC189E3686451B30AE07DF
     name: wg-access-server
     urls:
-    - https://alexandre-abrioux.github.io/wg-access-server/charts/wg-access-server-v0.4.6.tgz
+    - https://alexandre-abrioux.github.io/wg-access-server/charts/wg-access-server-v0.4.7.tgz
     version: v0.4.7
   - apiVersion: v2
     appVersion: v0.4.6
